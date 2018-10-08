@@ -1,0 +1,7 @@
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\ConsoleApp1\ConsoleApp1\obj\Debug\AdicionadorDeRegedit.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\ConsoleApp1\ConsoleApp1\obj\Debug\AdicionadorDeRegedit.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\ConsoleApp1\ConsoleApp1\bin\Debug\AdicionadorDeRegedit.exe.config
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\ConsoleApp1\ConsoleApp1\bin\Debug\AdicionadorDeRegedit.exe
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\ConsoleApp1\ConsoleApp1\bin\Debug\AdicionadorDeRegedit.pdb
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\ConsoleApp1\ConsoleApp1\obj\Debug\AdicionadorDeRegedit.exe
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\ConsoleApp1\ConsoleApp1\obj\Debug\AdicionadorDeRegedit.pdb
